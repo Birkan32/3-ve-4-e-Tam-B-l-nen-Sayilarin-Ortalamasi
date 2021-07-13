@@ -1,2 +1,2 @@
-# 3-ve-4-e-Tam-B-l-nen-Sayilarin-Ortalamasi
+# 3-ve-4-e-Tam-Bolunen-Sayilarin-Ortalamasi
 Patika Ödevi
